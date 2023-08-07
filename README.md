@@ -4,10 +4,12 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=1AyaNabil1&data=followers,repositories,stars,commits&theme=dark)](https://github.com/1AyaNabil1/github-widgetbox) 
 </div>
-<img width = "10%" align="right" alt="PIC" height="120px" src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" />
+
+<h1 align="center">Hey there! I'm Aya Nabil 👋 </h1>
+<h3 align="center"> Data Scientist 📊| Data Viz 📈| SQL ♥ | Python 🐍 | Machine Learning 🌩️ | Statstics ♻️  </h3>
+
+<img width = "20%" align="right" alt="PIC" height="200px" src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" />
 <div align="left"> 
-<h1 align="center">Hi 👋, I'm Aya Nabil</h1>
-<h4 align="center">Currently pursuing a degree in computer science with specialization in Data science and Ai</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1AyaNabil18&label=Profile%20views&color=0e75b6&style=flat" alt="AyaNabil" /> </p>
 
@@ -17,11 +19,14 @@
     <tr>
         <th align="left">
                 <ul>
-                    <li> 🔭 I’m currently working on <b>training Machine Learning models</b> </li>
-                    <li> 🌱 I’m currently learning <b>Data science topics</b> </li>
-                    <li> 💬 Ask me about <b>Machine learning, Data Analysis and Visualization</b> </li>
-                    <li> 📫 How to reach me <b>ayanabil3200@gmail.com</b> </li>
-                    <li> ⚡ Fun fact **I love diving deep into data.</b> </li>
+                <h3> 👨🏻‍💻 About Me </h3>
+                    <li> 🎓 &nbsp; I'm studying Data science and machine learning
+                    <li> 🕵️ &nbsp; Exploring the world through data, always searching for the hidden stories.
+                    <li> 🔭 &nbsp; I’m currently working on <b>training Machine Learning models</b> </li>
+                    <li> 💬 &nbsp; Ask me about <b>Machine learning, Data Analysis and Visualization</b> </li>
+                    <li> 📫 &nbsp; How to reach me <b>ayanabil3200@gmail.com</b> </li>
+                    <li> ⚡ &nbsp; Fun fact **I love diving deep into data.</b> </li>
+                    <li> ✍️ &nbsp; My target is to become a data master. 
                 </ul>
                 <h3 align="left">Connect with me:</h3>
                     <p align="left">
