@@ -8,9 +8,6 @@
 <h1 align="center">Hey there! I'm Aya Nabil 👋 </h1>
 <h3 align="center"> Data Scientist 📊| Data Viz 📈| SQL ♥ | Python 🐍 | Machine Learning 🌩️ | Statstics ♻️  </h3>
 
-<img width = "20%" align="right" alt="PIC" height="200px" src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" />
-<div align="left"> 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1AyaNabil18&label=Profile%20views&color=0e75b6&style=flat" alt="AyaNabil" /> </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=1AyaNabil1&column=-1&theme=onedark" alt="AyaNabil" /></p>
