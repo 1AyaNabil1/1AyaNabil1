@@ -64,16 +64,3 @@
 
 ![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=1AyaNabil1&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
 <br>
-
-
-<div style="display: flex;justify-content:center;"> 
-    <div style="width: 50%;"> 
-        
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=r,python,mysql,java,markdown&theme=dark)](https://github.com/1AyaNabil1/github-widgetbox)  
- </div>
- 
- <div style="width: 50%;"> 
-     
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2002-11-11&size=90&theme=basic&rotate=9)](https://moon-svg.minung.dev)</div> 
-</div> 
-</div>
