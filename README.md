@@ -5,7 +5,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=1AyaNabil1&data=followers,repositories,stars,commits&theme=dark)](https://github.com/1AyaNabil1/github-widgetbox) 
 </div>
 
-<h1 align="left">Hi 👋, I'm Aya Nabil</h1>
+<h1 align="center">Hi 👋, I'm Aya Nabil</h1>
 <img width = "10%" align="right" alt="PIC" height="120px" src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" />
 <div align="left"> 
 <h4 align="left">Currently pursuing a degree in computer science with specialization in Data science and Ai</h4>
