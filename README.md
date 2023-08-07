@@ -6,6 +6,8 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Aya Nabil</h1>
+<img width = "20%" align="right" alt="PIC" height="200px" src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" />
+<div align="left"> 
 <h4 align="center">Currently pursuing a degree in computer science with specialization in Data science and Ai</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1AyaNabil18&label=Profile%20views&color=0e75b6&style=flat" alt="AyaNabil" /> </p>
