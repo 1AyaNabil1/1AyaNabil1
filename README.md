@@ -69,12 +69,9 @@
  </div>
 
 <div style="display: flex;justify-content:center;">
- <div style="width: 50%;">    
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/1AyaNabil1/langs?time_range=one_year&theme=dark)](https://githubtrends.io)</div> 
 
  <div style="width: 50%;"> 
-
+     
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2002-11-11&size=90&theme=basic&rotate=9)](https://moon-svg.minung.dev)</div> 
 </div> 
 </div>
