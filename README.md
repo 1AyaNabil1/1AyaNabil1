@@ -75,6 +75,6 @@
 
  <div style="width: 50%;"> 
 
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2002-11-11&size=200&theme=basic&rotate=9)](https://moon-svg.minung.dev)</div> 
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2002-11-11&size=90&theme=basic&rotate=9)](https://moon-svg.minung.dev)</div> 
 </div> 
 </div>
