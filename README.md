@@ -65,10 +65,10 @@
 ![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=1AyaNabil1&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
 <br>
 
-<div style="display: flex;">
+<div style="display: flex;justify-content:center;">
  <div style="width: 50%;">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=r,python,mysql,java,math,markdown&theme=dark)](https://github.com/1AyaNabil1/github-widgetbox)  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=r,python,mysql,java,markdown&theme=dark)](https://github.com/1AyaNabil1/github-widgetbox)  
  </div>
 
  <div style="width: 50%;">    
