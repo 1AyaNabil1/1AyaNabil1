@@ -1,5 +1,10 @@
 <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="banner">
 
+<div style="text-align: center;"> 
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=1AyaNabil1&data=followers,repositories,stars,commits&theme=dark)](https://github.com/1AyaNabil1/github-widgetbox) 
+</div>
+
 <h1 align="center">Hi 👋, I'm Aya Nabil</h1>
 <h4 align="center">Currently pursuing a degree in computer science with specialization in Data science and Ai</h4>
 
@@ -31,15 +36,13 @@
                         <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter" width="40" height="40"/> </a>
                         <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="Cloud" width="40" height="40"/> </a> 
                         <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" width="40" height="40"/> </a>
-                        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-                        <h3 align="left">I am currently reading:</h3>
-                        <a href="<https://www.goodreads.com/user/show/154214912-aya-nabil"><img src="https://goodreads-readme.vercel.app/api/book?id=<154214912>" alt="GoodReads reading" width="350" /></a> 
-                    </p>   
-            </th>
+                        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+                    </p>
         </th>
-<th align="right">        
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=0jdgyr1wu9z7lym3cdokkbijw&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=4eb16f&bar_color_cover=true">
-</th>
+        <th align="right">        
+            <img src="https://spotify-github-profile.vercel.app/api/view?uid=0jdgyr1wu9z7lym3cdokkbijw&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=4eb16f&bar_color_cover=true">
+        </th>        
+    </tr>
 </table>
 
 <table>
@@ -61,8 +64,19 @@
 
 ![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=1AyaNabil1&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
 <br>
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
+<div style="display: flex;">
+ <div style="width: 50%;">
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=r,python,mysql,java,math,markdown&theme=dark)](https://github.com/1AyaNabil1/github-widgetbox)  
+ </div>
 
+ <div style="width: 50%;">    
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/1AyaNabil1/langs?time_range=one_year&theme=dark)](https://githubtrends.io)</div> 
+
+ <div style="width: 50%;"> 
+
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2002-11-11&size=200&theme=basic&rotate=9)](https://moon-svg.minung.dev)</div> 
+</div> 
+</div>
