@@ -32,7 +32,11 @@
                         <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="Cloud" width="40" height="40"/> </a> 
                         <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" width="40" height="40"/> </a>
                         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-                    </p>       
+                    </p>   
+            </th>
+        <th align="right">        
+            <img src="https://spotify-github-profile.vercel.app/api/view?uid=314en4ia7eeyco74hvxp6254hmam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=4eb16f&bar_color_cover=true">
+        </th>  
     </tr>
 </table>
 
