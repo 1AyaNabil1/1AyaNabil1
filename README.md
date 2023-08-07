@@ -68,8 +68,12 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=r,python,mysql,java,markdown&theme=dark)](https://github.com/1AyaNabil1/github-widgetbox)  
  </div>
 
-<div style="display: flex;justify-content:center;">
-
+<div style="display: flex;justify-content:center;"> 
+    <div style="width: 50%;"> 
+        
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=r,python,mysql,java,markdown&theme=dark)](https://github.com/1AyaNabil1/github-widgetbox)  
+ </div>
+ 
  <div style="width: 50%;"> 
      
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2002-11-11&size=90&theme=basic&rotate=9)](https://moon-svg.minung.dev)</div> 
