@@ -1,4 +1,4 @@
-<img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="banner">
+<img align="center" src="assets/banner.gif" alt="banner">
 
 <div style="text-align: center;"> 
 
