@@ -29,9 +29,6 @@
                     <p align="left">
                         <a href="www.linkedin.com/in/aya-nabil-202781247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aya-nabil-202781247" height="30" width="40" /></a>
                         <a href="https://www.hackerrank.com/ayanabil297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Aya Nabil" height="40" width="40" /></a>
-                        <a href="ayanabil3200@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="20" width="40" alt="gmail logo"  />
-  </a>
                         <a href="https://www.kaggle.com/ayanabil11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Aya Nabil" height="30" width="40" /></a>
                     </p>
                 <h3 align="left">Languages and Tools:</h3>
@@ -66,6 +63,4 @@
 [//]: # (<p><img align="center" src="assets/eyepop.png" alt="eyepop" height="150"/></p>)
 
 ![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=1AyaNabil1&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
-<br>
-
 <br>
