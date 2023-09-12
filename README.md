@@ -65,5 +65,6 @@
 
 [//]: # (<p><img align="center" src="assets/eyepop.png" alt="eyepop" height="150"/></p>)
 
-![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=1AyaNabil1&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
+![Contribution Graph](https://github-readme-snake-graph.herokuapp.com/graph?user=1AyaNabil1&bgColor=12111d&color=ffffff)
+
 <br>
