@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">Hey there! I'm Aya Nabil 👋 </h1>
-<h3 align="center"> Data Scientist 📊| Data Viz 📈| SQL ♥ | Python 🐍 | Machine Learning 🌩️ | Statstics ♻️  </h3>
+<h3 align="center"> Data Scientist📊| Data Viz📈| SQL♥ | Python🐍 | Machine Learning🌩️ | Statstics♻️  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1AyaNabil18&label=Profile%20views&color=0e75b6&style=flat" alt="AyaNabil" /> </p>
 
@@ -30,14 +30,14 @@
                         <a href="www.linkedin.com/in/aya-nabil-202781247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aya-nabil-202781247" height="30" width="40" /></a>
                         <a href="https://www.hackerrank.com/ayanabil297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Aya Nabil" height="30" width="40" /></a>
                         <a href="ayanabil3200@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="30" width="40" alt="gmail logo"  />
   </a>
                         <a href="https://www.kaggle.com/ayanabil11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Aya Nabil" height="30" width="40" /></a>
                     </p>
                 <h3 align="left">Languages and Tools:</h3>
                     <p align="left"> 
                         <img src="https://media.giphy.com/media/S8TzUKzRPjepzJx37U/giphy.gif" width="85"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://media.giphy.com/media/Js8fMtFd8ZZUQbTXzy/giphy.gif" width="70"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media.giphy.com/media/xvBv5pU4djudjF0ri8/giphy.gif" width="65"><img src="https://media.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif" width="60"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/SJNI93M109RCnISdG0/giphy.gif" width="60">
-<img width="12" /><img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
+<img width="12" /><img src="https://cdn.simpleicons.org/jupyter/F37626" width="60" alt="jupyter logo"  />
                     </p>
         </th>
         <th align="right">        
@@ -52,7 +52,7 @@
             <p><img align="center" src="https://readmestats.999857.xyz/api?username=1AyaNabil1&show_icons=true&locale=en&theme=dark" alt="Aya Nabil"/></p>
         </th>
         <th>
-            <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1AyaNabil1&theme=dark" alt="Aya Nabil" style="padding-right:30px"/></p>
+            <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1AyaNabil1&theme=dark" alt="Aya Nabil" style="padding-right:30"/></p>
         </th>
     </tr>
 </table>
@@ -67,7 +67,7 @@
 
 ###
 #### My contribution graph :
-![github-contribution-grid-snake](https://github.com/1AyaNabil1/1AyaNabil1/blob/output/github-contribution-grid-snake-dark.svg)
+![github-contribution-grid-snake](https://github.com/1AyaNabil1/blob/output/github-contribution-grid-snake-dark.svg)
 
 <br clear="both">
 <br>
