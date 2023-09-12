@@ -34,6 +34,12 @@
                 <h3 align="left">Languages and Tools:</h3>
                     <p align="left"> 
                         <img src="https://media.giphy.com/media/S8TzUKzRPjepzJx37U/giphy.gif" width="85"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://media.giphy.com/media/Js8fMtFd8ZZUQbTXzy/giphy.gif" width="70"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media.giphy.com/media/xvBv5pU4djudjF0ri8/giphy.gif" width="65"><img src="https://media.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif" width="60"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/SJNI93M109RCnISdG0/giphy.gif" width="60">
+<img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img width="12" />
                     </p>
         </th>
         <th align="right">        
