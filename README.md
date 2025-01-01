@@ -12,19 +12,20 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=1AyaNabil1&column=-1&theme=onedark" alt="AyaNabil" /></p>
 
-<table style="width:100%">
+<table style="width:100%", align="center">
     <tr>
-        <th align="left">
+        <th align="center">
                 <ul>
                 <h3> 👨🏻‍💻 About Me </h3>
-                    <li> 🎓 &nbsp; I'm studying Data science and machine learning
-                    <li> 🕵️ &nbsp; Exploring the world through data, always searching for the hidden stories.
-                    <li> 🔭 &nbsp; I’m currently working on <b>training Machine Learning models</b> </li>
-                    <li> 💬 &nbsp; Ask me about <b>Machine learning, Data Analysis and Visualization</b> </li>
-                    <li> 📫 &nbsp; How to reach me <b>ayanabil3200@gmail.com</b> </li>
-                    <li> ⚡ &nbsp; Fun fact **I love diving deep into data.</b> </li>
-                    <li> ✍️ &nbsp; My target is to become a data master. 
-                </ul>
+                    <ul> 
+                        <li> 🎓 &nbsp; I’m currently studying Data Science and Machine Learning, with a focus on real-world applications.</li>
+                        <li> 🕵️ &nbsp; Exploring the world through data, constantly searching for hidden stories and insights.</li>
+                        <li> 🔭 &nbsp; I’m actively working on <b>training machine learning models</b> to solve practical challenges.</li> 
+                        <li> 💬 &nbsp; Feel free to ask me about <b>Deep Learning, Machine Learning, and AI</b>—I'm always happy to share knowledge!</li> 
+                        <li> 📫 &nbsp; You can reach me at <b>ayanabil3200@gmail.com</b> for collaborations or questions.</li> 
+                        <li> ⚡ &nbsp; I love diving deep into data and uncovering its hidden insights.</li> 
+                        <li> ✍️ &nbsp; My ultimate goal is to become a <b>DATA MASTER</b>, continually learning and pushing the boundaries of what's possible.</li> 
+                    </ul>
                 <h3 align="left">Connect with me:</h3>
                     <p align="left">
                         <a href="www.linkedin.com/in/aya-nabil-202781247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aya-nabil-202781247" height="30" width="40" /></a>
