@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">Hey there! I'm Aya Nabil 👋 </h1>
-<h3 align="center"> Data Scientist📊| Data Viz📈| SQL♥ | Python🐍 | Machine Learning🌩️ | Statstics♻️  </h3>
+<h3 align="center">Data Science Student📚 | Deep Learning🤖 | Machine Learning🌩️ | AI💡 | Data Mining🔍 | Statistics📊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1AyaNabil18&label=Profile%20views&color=0e75b6&style=flat" alt="AyaNabil" /> </p>
 
