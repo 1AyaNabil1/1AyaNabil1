@@ -14,7 +14,7 @@
 
 <table style="width:100%", align="center">
     <tr>
-        <th align="center">
+        <th align="Left">
                 <ul>
                 <h3> 👨🏻‍💻 About Me </h3>
                     <ul> 
