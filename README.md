@@ -1,4 +1,4 @@
-<img align="center" src="assests/banner.gif" alt="banner">
+<img align="center" src="assests/IMG_9868.gif" alt="banner">
 
 <div style="text-align: center;"> 
 
