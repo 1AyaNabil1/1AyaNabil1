@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">Welcome! I’m Aya Nabil 🚀</h1>
-<h3 align="center">Data Science Student📚 | Deep Learning🤖 | Machine Learning🌩️ | AI💡 | Data Mining🔍 | Statistics📊</h3>
+<h3 align="center">Aspiring AI Engineer 💡 | Deep Learning & ML Enthusiast 🤖 | Applied Data Science 📊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1AyaNabil18&label=Profile%20views&color=0e75b6&style=flat" alt="AyaNabil" /> </p>
 
@@ -18,13 +18,15 @@
                 <ul>
                 <h3> 👨🏻‍💻 About Me </h3>
                     <ul> 
-                        <li> 🎓 &nbsp; I’m currently studying Data Science and Machine Learning, with a focus on real-world applications.</li>
-                        <li> 🕵️ &nbsp; Exploring the world through data, constantly searching for hidden stories and insights.</li>
-                        <li> 🔭 &nbsp; I’m actively working on <b>training machine learning models</b> to solve practical challenges.</li> 
-                        <li> 💬 &nbsp; Feel free to ask me about <b>Deep Learning, Machine Learning, and AI</b>—I'm always happy to share knowledge!</li> 
-                        <li> 📫 &nbsp; You can reach me at <b>ayanabil3200@gmail.com</b> for collaborations or questions.</li> 
-                        <li> ⚡ &nbsp; I love diving deep into data and uncovering its hidden insights.</li> 
-                        <li> ✍️ &nbsp; My ultimate goal is to become a <b>DATA MASTER</b>, continually learning and pushing the boundaries of what's possible.</li> 
+                        <li> 🎓 &nbsp; Recent graduate in Computing and Data Science, with a strong foundation in AI, ML, and real-world applications.</li>
+                        <li> 🤖 &nbsp; Building end-to-end AI pipelines across NLP, Computer Vision, and traditional ML use cases.</li>
+                        <li> 🔧 &nbsp; Skilled in MLOps practices—experiment tracking, model versioning, deployment, and monitoring.</li>
+                        <li> 🛠️ &nbsp; Experienced with Data Engineering tools like SQL, Airflow, Docker, Spark, and cloud-based workflows.</li>
+                        <li> 📊 &nbsp; Strong background in Data Analysis and interactive dashboarding using Power BI, Tableau, and Python (Plotly, Seaborn).</li>
+                        <li> 🧠 &nbsp; Actively working on applied projects involving Transformers, CNNs, and structured data modeling.</li>
+                        <li> 💬 &nbsp; I love discussing anything AI—especially model lifecycle, deployment strategies, and real-time AI systems.</li>
+                        <li> 📫 &nbsp; Reach me at <b>ayanabil3200@gmail.com</b> — I’m open to research, collaborations, or AI projects!</li>
+                        <li> 🚀 &nbsp; On a mission to master the full AI stack—from data ingestion to deployment and impact.</li>
                     </ul>
                 <h3 align="left">Connect with me:</h3>
                     <p align="left">
