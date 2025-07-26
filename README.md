@@ -29,7 +29,7 @@
                         <li> &nbsp; Actively working on applied projects involving Transformers, CNNs, and structured data modeling.</li>
                         <li> &nbsp; I love discussing anything AI, especially model lifecycle, deployment strategies, and real-time AI systems.</li>
                         <li> &nbsp; Reach me at <b>ayanabil3200@gmail.com</b>, I’m open to research, collaborations, or AI projects!</li>
-                        <li> &nbsp; On a mission to master the full AI stack—from data ingestion to deployment and impact.</li>
+                        <li> &nbsp; On a mission to master the full AI stack, from data ingestion to deployment and impact.</li>
                     </ul>
                 <h3 align="left">Connect with me:</h3>
                     <p align="left">
