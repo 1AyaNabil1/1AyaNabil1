@@ -67,7 +67,6 @@
         </th>
     </tr>
 </table>
-<p align="center">⭐️ Feel free to explore my repositories and don’t forget to star if you find something interesting! ⭐️</p>
 
 [//]: # (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1AyaNabil1&hide_progress=true&theme=dark" alt="1AyaNabil1" width=400 /></p> )
 
