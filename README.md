@@ -1,4 +1,4 @@
-<i--
+<!--
 <img align="center" src="assests/banner.gif" alt="banner">
 
 <div style="text-align: center;"> 
@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1AyaNabil18&label=Profile%20views&color=0e75b6&style=flat" alt="AyaNabil" /> </p>
 
-<i--
+<!--
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=1AyaNabil1&column=-1&theme=onedark" alt="AyaNabil" /></p>
 -->
 
