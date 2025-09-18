@@ -9,13 +9,13 @@
 <h1 align="center">Welcome! I'm Aya Nabil</h1>
 <h3 align="center">AI Engineer | Deep Learning & NLP Enthusiast | Applied Data Science & MLOps Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1AyaNabil1&label=Profile%20views&color=0e75b6&style=flat" alt="AyaNabil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1AyaNabil1&label=Profile%20views&color=0e75b6&style=flat" alt="Aya" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/aya-nabil-202781247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/ayanabil11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
   <a href="https://www.kaggle.com/ayanabil11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="30" /></a>
-  <a href="https://ayanabil.vercel.app/" target="_blank"><img align="center" src="assests/main.ico" alt="Website" height="30" width="30" /></a>
+  <a href="https://ayanexus.dev" target="_blank"><img align="center" src="assests/main.ico" alt="Website" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,8 +38,8 @@
 
 <table align="center">
   <tr>
-    <td><img align="center" src="https://readmestats.999857.xyz/api?username=1AyaNabil1&show_icons=true&locale=en&theme=dark" alt="Aya Nabil" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1AyaNabil1&theme=dark" alt="Aya Nabil Streak" /></td>
+    <td><img align="center" src="https://readmestats.999857.xyz/api?username=1AyaNabil1&show_icons=true&locale=en&theme=dark" alt="Aya" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1AyaNabil1&theme=dark" alt="Aya's Streak" /></td>
   </tr>
 </table>
 
