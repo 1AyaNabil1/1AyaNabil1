@@ -14,11 +14,11 @@
 <!--
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=1AyaNabil1&column=-1&theme=onedark" alt="AyaNabil" /></p>
 -->
-<table style="width:100%", align="center">
+<table style="width:100%", align="left">
     <tr>
         <th align="Left">
                 <ul>  
-                <h3 align="left">Connect with me:</h3>
+                <h3 align="center">Connect with me:</h3>
                     <p align="center">
                         <a href="www.linkedin.com/in/aya-nabil-202781247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aya-nabil-202781247" height="30" width="35" /></a>
                         <a href="https://www.kaggle.com/ayanabil11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Aya Nabil" height="30" width="35" /></a>
