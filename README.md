@@ -9,7 +9,7 @@
 <h1 align="center">Welcome! I'm Aya Nabil</h1>
 <h3 align="center">AI Engineer | Deep Learning & NLP Enthusiast | Applied Data Science & MLOps Explorer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=1AyaNabil1&label=Profile%20views&color=0e75b6&style=flat" alt="AyaNabil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1AyaNabil1&label=Profile%20views&color=0e75b6&style=flat" alt="AyaNabil" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <img src="assests/python.svg" width="40" alt="Python" />
   <img src="assests/postgresql.png" width="35" alt="PostgreSQL" />
   <img src="assests/power-bi.png" width="35" alt="Power BI" />
