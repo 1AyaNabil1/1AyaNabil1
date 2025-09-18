@@ -14,11 +14,11 @@
 <!--
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=1AyaNabil1&column=-1&theme=onedark" alt="AyaNabil" /></p>
 -->
-
 <table style="width:100%", align="center">
     <tr>
         <th align="Left">
                 <ul>
+                    <!-->
                 <h3> 👨🏻‍💻 About Me </h3>
                     <ul> 
                         <li> &nbsp; Recent graduate in Computing and Data Science, with a strong foundation in AI, ML, and real-world applications.</li>
@@ -30,7 +30,9 @@
                         <li> &nbsp; I love discussing anything AI, especially model lifecycle, deployment strategies, and real-time AI systems.</li>
                         <li> &nbsp; Reach me at <b>ayanabil3200@gmail.com</b>, I’m open to research, collaborations, or AI projects!</li>
                         <li> &nbsp; On a mission to master the full AI stack, from data ingestion to deployment and impact.</li>
-                    </ul>
+                    </ul> -->
+
+                    
                 <h3 align="left">Connect with me:</h3>
                     <p align="left">
                         <a href="www.linkedin.com/in/aya-nabil-202781247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aya-nabil-202781247" height="30" width="35" /></a>
