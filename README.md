@@ -9,7 +9,7 @@
 <h1 align="center">Welcome! I'm Aya Nabil</h1>
 <h3 align="center">AI Engineer | Deep Learning & NLP Enthusiast | Applied Data Science & MLOps Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1AyaNabil1&label=Profile%20views&color=0e75b6&style=flat" alt="Aya" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=1AyaNabil1&label=Profile%20views&color=0e75b6&style=flat" alt="Aya" /> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
