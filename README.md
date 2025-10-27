@@ -17,7 +17,7 @@
   <a href="https://www.kaggle.com/ayanabil11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="30" /></a>
   <a href="https://ayanexus.dev" target="_blank"><img align="center" src="assests/main.ico" alt="Website" height="30" width="30" /></a>
 </p>
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="assests/python.svg" width="40" alt="Python" />
@@ -35,7 +35,7 @@
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="35" alt="Kubernetes" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" alt="Docker" />
 </p>
-
+-->
 <table align="center">
   <tr>
     <td><img align="center" src="https://readmestats.999857.xyz/api?username=1AyaNabil1&show_icons=true&locale=en&theme=dark" alt="Aya" /></td>
