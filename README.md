@@ -11,7 +11,7 @@
 <samp align="center">
 <div align="center">
   My latest projects:
-  <a href="https://www.ayanexus.dev/">my portfolio</a> |
+  <a href="https://ayanexus.dev/">my portfolio</a> |
   <a href="https://vloomeo.ashraf.zone/">vloomeo</a> |
   <a href="https://www.swanexus.dev/">swan</a>
   <br />
