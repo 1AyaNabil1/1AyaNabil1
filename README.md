@@ -8,7 +8,15 @@
 
 <h1 align="center">Welcome! I'm Aya Nabil</h1>
 <h3 align="center">AI Engineer | Deep Learning & NLP Enthusiast | Applied Data Science & MLOps Explorer</h3>
-
+<samp align="center">
+<div align="center">
+  My latest projects:
+  <a href="https://www.ayanexus.dev/">my portfolio</a> |
+  <a href="https://vloomeo.ashraf.zone/">vloomeo</a> |
+  <a href="https://www.swanexus.dev/">swan</a>
+</div>
+</samp>
+<br/>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=1AyaNabil1&label=Profile%20views&color=0e75b6&style=flat" alt="Aya" /> </p> -->
 <!--
 <h3 align="left">Connect with me:</h3>
