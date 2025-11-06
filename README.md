@@ -15,10 +15,10 @@
   <a href="https://vloomeo.ashraf.zone/">vloomeo</a> |
   <a href="https://www.swanexus.dev/">swan</a>
   <br />
-  Building:
+  Under Development:
   <a href="https://api.whatsapp.com/send/?phone=971586633824%&text&type=phone_number&app_absent=0"> maya ai agent</a>
   <br />
-  Under Development: Kharajni | TheraMap 
+  Not Yet: Kharajni | TheraMap 
 </div>
 </samp>
 <br/>
