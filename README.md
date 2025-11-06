@@ -7,17 +7,18 @@
 -->
 
 <h1 align="center">Welcome! I'm Aya Nabil</h1>
-<h3 align="center">AI Engineer | Deep Learning & NLP Enthusiast | Applied Data Science & MLOps Explorer</h3>
+<h3 align="center">Full-Stack AI Engineer | Applied Data Scientist | Future Researcher ISA </h3>
 <samp align="center">
 <div align="center">
-  My latest projects:
+  Built:
   <a href="https://ayanexus.dev/">my portfolio</a> |
   <a href="https://vloomeo.ashraf.zone/">vloomeo</a> |
   <a href="https://www.swanexus.dev/">swan</a>
   <br />
+  Building:
+  <a href="https://api.whatsapp.com/send/?phone=971586633824%&text&type=phone_number&app_absent=0"> maya ai agent</a>
   <br />
-  Under Development:
-  Kharajni | TheraMap 
+  Under Development: Kharajni | TheraMap 
 </div>
 </samp>
 <br/>
