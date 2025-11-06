@@ -5,20 +5,20 @@
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=1AyaNabil1&data=followers,repositories,stars,commits&theme=dark)](https://github.com/1AyaNabil1/github-widgetbox)
 </div>
 -->
-
-<h1 align="center">Ladies and Gentlemen, I'm Aya Nabil</h1>
-<h3 align="center">Full-Stack AI Engineer | Applied Data Scientist | Future Researcher ISA </h3>
+<h3 align="center">Ladies and Gentlemen, I'm Aya Nabil</h3>
+<h4 align="center">Full-Stack AI Engineer | Applied Data Scientist | Future Researcher ISA </h4>
 <samp align="center">
 <div align="center">
+  Implementing: <a href="https://github.com/1AyaNabil1/attention_is_all_you_need"> Attention is all you need </a>
+  <br />
   Built:
-  <a href="https://ayanexus.dev/">my portfolio</a> |
+  <a href="https://ayanexus.dev/">portfolio</a> |
   <a href="https://vloomeo.ashraf.zone/">vloomeo</a> |
   <a href="https://www.swanexus.dev/">swan</a>
   <br />
-  Under Development:
-  <a href="https://api.whatsapp.com/send/?phone=971586633824%&text&type=phone_number&app_absent=0"> maya ai agent</a>
+  Developing:
+  <a href="https://api.whatsapp.com/send/?phone=971586633824%&text&type=phone_number&app_absent=0"> maya</a>
   <br />
-  Not Yet: Kharajni | TheraMap 
 </div>
 </samp>
 <br/>
