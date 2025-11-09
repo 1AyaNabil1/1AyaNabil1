@@ -17,7 +17,7 @@
   <a href="https://www.swanexus.dev/">swan</a>
   <br />
   Developing:
-  <a href="https://api.whatsapp.com/send/?phone=971586633824%&text&type=phone_number&app_absent=0"> maya</a>
+  <a href="https://api.whatsapp.com/send/?phone=971586633824&text&type=phone_number&app_absent=0"> maya</a>
   <br />
 </div>
 </samp>
