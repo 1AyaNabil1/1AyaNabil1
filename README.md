@@ -16,6 +16,8 @@
   <a href="https://vloomeo.ashraf.zone/">vloomeo</a> |
   <a href="https://www.swanexus.dev/">swan</a>
   <br />
+  Research analysis: <a href="https://movico.vercel.app/">Movico</a>
+  <br />
   Developing:
   <a href="https://api.whatsapp.com/send/?phone=971586633824&text&type=phone_number&app_absent=0"> maya</a>
   <br />
