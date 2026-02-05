@@ -13,7 +13,7 @@
   <br />
   Built:
   <a href="https://ayanexus.dev/">portfolio</a> |
-  <a href="https://vloomeo.ashraf.zone/">vloomeo</a> |
+  <a href="">scripto</a> |
   <a href="https://www.swanexus.dev/">swan</a>
   <br />
   Research analysis: <a href="https://movico.vercel.app/">Movico</a>
