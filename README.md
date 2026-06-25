@@ -1,7 +1,7 @@
 <!--<img align="center" src="assests/banner.gif" alt="banner" width="100%">-->
 
 <h3 align="center">Ladies and Gentlemen, I'm Aya Nabil</h3>
-<h4 align="center">Full-Stack AI Engineer | Applied Data Scientist | Future AI Researcher isa </h4>
+<h4 align="center">AI Engineer | Applied Data Scientist | Future AI Researcher isa </h4>
 <samp align="center">
 <div align="center">
   Implementing: <a href="https://attention-is-all-you-need.onrender.com/"> Attention is all you need </a>
